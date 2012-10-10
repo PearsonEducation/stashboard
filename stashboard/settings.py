@@ -2,10 +2,10 @@ import os
 
 DEBUG = False
 
-SITE_NAME = "Stashboard"
-SITE_AUTHOR = "Colonel Mustache"
-SITE_URL = "http://stashbooard.appspot.com"
-REPORT_URL = "mailto:help@stashboard.org"
+SITE_NAME = "Manhattan Status Board"
+SITE_AUTHOR = "K-to-the-D-U_B" # I hate nicknames
+SITE_URL = "http://manhattan-cloud-status.appspot.com"
+REPORT_URL = "mailto:kevwil+manhattanstashboard@gmail.com"
 
 # Twitter update settings
 TWITTER_CONSUMER_KEY = ''
